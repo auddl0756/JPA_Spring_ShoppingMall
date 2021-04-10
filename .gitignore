@@ -1,3 +1,7 @@
 # Project exclude paths
 /out/
 /target/
+/.idea
+/web/resources
+/web/WEB-INF/jsp
+/web/WEB-INF/views
